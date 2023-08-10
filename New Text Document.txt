@@ -1,0 +1,2 @@
+font-family: 'Akaya Telivigala', cursive;
+font-family: 'EB Garamond', serif;
